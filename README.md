@@ -1,4 +1,4 @@
-## README
+## mint-anywhere 
 
 <img width="256" height="256" alt="mint-anywhere" src="https://github.com/user-attachments/assets/092f0a2c-9e79-4f24-ad59-b05f1a879895" />
 
