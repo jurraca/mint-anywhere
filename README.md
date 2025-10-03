@@ -1,6 +1,9 @@
 ## README
 
-Status: untested, custom CDK branch, needs security review.
+<img width="512" height="512" alt="mint-anywhere" src="https://github.com/user-attachments/assets/092f0a2c-9e79-4f24-ad59-b05f1a879895" />
+
+
+*Status*: untested, custom CDK branch, needs security review.
 
 Deploy a Cashu mint with [CDK](https://github.com/cashubtc/cdk) and [nixos-anywhere](https://github.com/nix-community/nixos-anywhere).
 
@@ -24,7 +27,7 @@ If you're familiar with `nix-bitcoin` or NixOS configuration, then adding a Cash
       mintInfo = {
         enable = true;
         name = "Bank of Cyberspace";
-        motd = "hack the planet!!!";
+    file:///home/base/code/cdk/mint-anywhere.png    file:///home/base/code/cdk/mint-anywhere.pngmotd = "hack the planet!!!";
         # description = "";
         # iconURL = "...";
         # pubkey = "";
