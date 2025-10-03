@@ -27,7 +27,7 @@ If you're familiar with `nix-bitcoin` or NixOS configuration, then adding a Cash
       mintInfo = {
         enable = true;
         name = "Bank of Cyberspace";
-    file:///home/base/code/cdk/mint-anywhere.png    file:///home/base/code/cdk/mint-anywhere.pngmotd = "hack the planet!!!";
+        motd = "hack the planet!!!";
         # description = "";
         # iconURL = "...";
         # pubkey = "";
